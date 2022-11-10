@@ -171,7 +171,7 @@
     Copyright (C) 2022 <a href="https://github.com/The-HellBot">The-HellBot</a>
 </h4>
 
-Project [HellBot](https://github.com/The-HellBot/HellBot) is free software: you can redistribute it and/or modify
+Project [HellBot](https://github.com/smolty-5/HellBot) is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.
